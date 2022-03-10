@@ -1,0 +1,1 @@
+edge_driver_path = 'C:\edgedriver_win32\msedgedriver.exe'

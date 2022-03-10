@@ -21,6 +21,6 @@ password_box.submit()
 
 # Assert
 
-assert "erasmosoares" in browser.page_source 
+assert "your username" in browser.page_source 
 
 browser.quit()
